@@ -1,0 +1,14 @@
+I. ដូចរម្ដេចដែលហៅថា Inheritance? 
+Inheritance គឺជាដំរណើរនៃការករកើត Class ថ្មីមួយរចញពី Class ដែលមានស្រាប់ ដែល 
+Class ថ្មី គេហៅថា Sub Class ឬ Derived Class និង Class មាន ស្រាប់គេហៅថា Base Class ឬ 
+Super Class។  
+
+នៅក្នុង Inheritance គេបែងចែកជា ២ប្រភេទគឺ៖ 
+ ១) Single Inheritance
+ ២) Multiple Inheritance
+ ៣) Hierarchical
+ ៤) Multilevel 
+ ៥) Hybrid
+
+Inheritance OOP Have 2.
+1.Single inheritance And Multiple Inheritance
